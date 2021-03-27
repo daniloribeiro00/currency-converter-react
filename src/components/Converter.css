@@ -1,0 +1,15 @@
+.converter {
+    padding: 10px 20px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+input {
+    border: solid 0.5px;
+    border-color: silver; 
+}
+
+input:focus {
+    outline: 0;
+    border-bottom: solid 1px blue;
+}
