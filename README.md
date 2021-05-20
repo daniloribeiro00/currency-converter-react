@@ -1,3 +1,5 @@
 # currency-converter-react
 
-Currency converter created with React JS
+Currency converter created with React JS.
+
+Website: 
